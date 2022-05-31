@@ -7,7 +7,7 @@
 <section class="introduction-section">
     <h1>Introduction</h1>
     <p>I am a college student, currently studying Bachelor of Science in Information Technology at Quezon City University of the Philippines.</p>
-    <p>I love the internet, technology, and to explore more about in programming.</p>
+    <p>I love the internet, technology, and explore more about in programming.</p>
 </section>
 <section class="location-section">
     <h1>Where I'm From</h1>
@@ -22,11 +22,11 @@
 
 <footer class="content-footer">
     <p>Say hi to me on these social networks:</p>
-    <ul class="social">
+    <center><ul class="social">
         <li><a class="css-is-deranged" href="https://github.com/balaganj/balaganj">GitHub</a></li>
         <li><a class="css-is-deranged" href="https://twitter.com/balagan_jhomel">Twitter</a></li>
         <li><a class="css-is-deranged" href="https://www.facebook.com/jhomel.balagan">Facebook</a></li>
-    </ul>
+      </ul></center>
   
 </footer>
 </html>
