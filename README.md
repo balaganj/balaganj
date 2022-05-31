@@ -22,11 +22,11 @@
 
 <footer class="content-footer">
     <p>Say hi to me on these social networks:</p>
-    <center><ul class="social">
+    <ul class="social">
         <li><a class="css-is-deranged" href="https://github.com/balaganj/balaganj">GitHub</a></li>
         <li><a class="css-is-deranged" href="https://twitter.com/balagan_jhomel">Twitter</a></li>
         <li><a class="css-is-deranged" href="https://www.facebook.com/jhomel.balagan">Facebook</a></li>
-      </ul></center>
+      </ul>
   
 </footer>
 </html>
