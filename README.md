@@ -17,7 +17,7 @@
     <h1>More About Me</h1>
     <h2>What are your favorite hobbies?</h2>
     <p>My favorite hobby is to learn and explore about in programming languages such as Css and Javascript.</p>
-    <p>I also love playing PUBG and CODM, watching netflix movies and series, and beatboxing.</p>
+    <p>I also love playing PUBG and CODM, watching netflix movies or series, and beatboxing.</p>
 </section>
 
 <footer class="content-footer">
