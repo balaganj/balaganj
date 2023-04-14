@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **balaganjhomel7@gmail.com**
 
-- ⚡ Fun fact **I think I am loveable person**
+- ⚡ Fun fact **I think I am loveable and kind person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
