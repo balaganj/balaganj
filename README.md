@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jhomel Balagan</h1>
-<h3 align="center">A passionate and aspiring frontend developer</h3>
+<h3 align="center">A passionate and aspiring IT Support & Frontend Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🌱 I’m currently learning **CSS, bootstrap, python, and etc.**
+- 🌱 I’m currently learning **CSS, python, and etc.**
 
 - 📫 How to reach me **balaganjhomel7@gmail.com**
 
