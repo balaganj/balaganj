@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **balaganjhomel7@gmail.com**
 
-- ⚡ Fun fact **I am responsible and attention to details when I have a project.**
+- ⚡ Fun fact **I am responsible and attention to details in every single task.**
 
 <h3 align="left">Message me here:</h3>
 <p align="left">
